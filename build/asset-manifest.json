@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.295e9810.css",
+    "main.js": "/static/js/main.9163ae68.js",
+    "static/js/787.575b6cd2.chunk.js": "/static/js/787.575b6cd2.chunk.js",
+    "static/media/security.jpg": "/static/media/security.2dda27396b42f059752e.jpg",
+    "static/media/projImg2.jpg": "/static/media/projImg2.2e69d42863810774aac9.jpg",
+    "static/media/bgpix.jpg": "/static/media/bgpix.fb58c8f37a24c07f5347.jpg",
+    "static/media/realestate.jpg": "/static/media/realestate.4435245a3de2beaf5d40.jpg",
+    "static/media/dev.jpg": "/static/media/dev.694a377036d6b1b4ea48.jpg",
+    "static/media/designs.jpg": "/static/media/designs.de64707a73fb0ae93ffc.jpg",
+    "static/media/company.jpg": "/static/media/company.399f5d032c451dc3cd86.jpg",
+    "static/media/projImg3.jpg": "/static/media/projImg3.02293c9e3ace559927be.jpg",
+    "static/media/ngopic.jpg": "/static/media/ngopic.14deafa76792b74ff037.jpg",
+    "static/media/mobile2.jpg": "/static/media/mobile2.cfe877e798e6a87a7880.jpg",
+    "static/media/bg2.jpg": "/static/media/bg2.d74876d8ff9dce60fa8f.jpg",
+    "static/media/Gishmaflogo.png": "/static/media/Gishmaflogo.49cbb4d6ec6884bb1024.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.295e9810.css.map": "/static/css/main.295e9810.css.map",
+    "main.9163ae68.js.map": "/static/js/main.9163ae68.js.map",
+    "787.575b6cd2.chunk.js.map": "/static/js/787.575b6cd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.295e9810.css",
+    "static/js/main.9163ae68.js"
+  ]
+}
